@@ -10,6 +10,7 @@ https://github.com/olddocks/caffe-facialkp
 https://github.com/ci2cv/face-analysis-sdk
 https://github.com/uricamic/flandmark
 https://github.com/sdcoca/facex
+https://github.com/dnouri/kfkd-tutorial
 ~~~
 
 Face databases:
