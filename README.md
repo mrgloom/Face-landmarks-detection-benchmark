@@ -8,6 +8,7 @@ To look at:
 https://github.com/delphifirst/FaceX
 https://github.com/olddocks/caffe-facialkp
 https://github.com/ci2cv/face-analysis-sdk
+https://github.com/uricamic/flandmark
 ~~~
 
 Face databases:
