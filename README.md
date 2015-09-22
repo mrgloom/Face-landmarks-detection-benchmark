@@ -8,3 +8,11 @@ To look at:
 https://github.com/delphifirst/FaceX
 https://github.com/olddocks/caffe-facialkp
 ~~~
+
+Face databases:
+~~~
+LFPW
+HELEN
+AFW
+IBUG
+~~~
