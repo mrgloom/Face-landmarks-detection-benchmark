@@ -13,6 +13,7 @@ https://github.com/sdcoca/facex
 https://github.com/dnouri/kfkd-tutorial
 https://github.com/FaceDetect/jointCascade_py
 https://github.com/zhusz/CVPR15-CFSS
+http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 ~~~
 
 Face databases:
