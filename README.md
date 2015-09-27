@@ -12,6 +12,7 @@ https://github.com/uricamic/flandmark
 https://github.com/sdcoca/facex
 https://github.com/dnouri/kfkd-tutorial
 https://github.com/FaceDetect/jointCascade_py
+https://github.com/zhusz/CVPR15-CFSS
 ~~~
 
 Face databases:
