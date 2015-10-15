@@ -19,13 +19,16 @@ http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://ibug.doc.ic.ac.uk/resources/fiducial-facial-point-detector-20052007/
 http://ibug.doc.ic.ac.uk/resources/facial-point-detector-2010/
+
+One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
 ~~~
 
 Face databases:
 ~~~
 LFPW
-HELEN
+HELEN (192 points) http://www.ifp.illinois.edu/~vuongle2/helen/
 AFW
-IBUG
+IBUG (68 points)
+PUT
 ~~~
