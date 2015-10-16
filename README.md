@@ -22,13 +22,16 @@ http://ibug.doc.ic.ac.uk/resources/facial-point-detector-2010/
 
 One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
+
+http://www.ics.uci.edu/~xzhu/face/
 ~~~
 
 Face databases:
 ~~~
 LFPW
 HELEN (192 points) http://www.ifp.illinois.edu/~vuongle2/helen/
-AFW
+AFW 
+AFLW https://lrs.icg.tugraz.at/research/aflw/
 IBUG (68 points)
 PUT
 ~~~
