@@ -24,6 +24,7 @@ One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kaz
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
 
 http://www.ics.uci.edu/~xzhu/face/
+https://github.com/TadasBaltrusaitis/CLM-framework
 ~~~
 
 Face databases:
