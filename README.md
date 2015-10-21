@@ -6,7 +6,6 @@ Detected face landmarks can be used for face alignment.
 To look at:
 ~~~
 https://github.com/delphifirst/FaceX
-https://github.com/olddocks/caffe-facialkp
 https://github.com/ci2cv/face-analysis-sdk
 https://github.com/uricamic/flandmark
 http://cmp.felk.cvut.cz/~uricamic/flandmark/
@@ -24,6 +23,9 @@ http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
 
 http://www.ics.uci.edu/~xzhu/face/
 https://github.com/TadasBaltrusaitis/CLM-framework
+
+Deep learning:
+https://github.com/olddocks/caffe-facialkp
 
 Too simple algorithm, not worth considering it:
 https://github.com/sdcoca/facex
