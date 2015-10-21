@@ -11,7 +11,6 @@ https://github.com/ci2cv/face-analysis-sdk
 https://github.com/uricamic/flandmark
 http://cmp.felk.cvut.cz/~uricamic/flandmark/
 http://cmp.felk.cvut.cz/~uricamic/clandmark/
-https://github.com/sdcoca/facex
 https://github.com/dnouri/kfkd-tutorial
 https://github.com/FaceDetect/jointCascade_py
 https://github.com/zhusz/CVPR15-CFSS
@@ -25,6 +24,9 @@ http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
 
 http://www.ics.uci.edu/~xzhu/face/
 https://github.com/TadasBaltrusaitis/CLM-framework
+
+Too simple algorithm, not worth considering it:
+https://github.com/sdcoca/facex
 ~~~
 
 Face databases:
