@@ -17,6 +17,7 @@ http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://ibug.doc.ic.ac.uk/resources/fiducial-facial-point-detector-20052007/
 http://ibug.doc.ic.ac.uk/resources/facial-point-detector-2010/
+http://www.milbo.users.sonic.net/stasm/
 
 One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
@@ -43,4 +44,5 @@ AFLW https://lrs.icg.tugraz.at/research/aflw/
 IBUG (68 points)
 PUT
 MUCT (76 points) http://www.milbo.org/muct/
+XM2VTS $(?) http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/
 ~~~
