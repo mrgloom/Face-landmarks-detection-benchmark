@@ -27,6 +27,9 @@ https://github.com/TadasBaltrusaitis/CLM-framework
 Deep learning:
 https://github.com/olddocks/caffe-facialkp
 
+Javascript:
+https://github.com/auduno/clmtrackr
+
 Too simple algorithm, not worth considering it:
 https://github.com/sdcoca/facex
 ~~~
