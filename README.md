@@ -1,19 +1,19 @@
 # Face-landmarks-detection-benchmark
-Face landmarks(fiducial points) detection benchmark
+Face landmarks(fiducial points) detection evaluation.
 
-Detected face landmarks can be used for face alignment.
+Attention! It's comparision of specific implementations,not algorithms by itself, so if you know how to improve results let me now.
+
 
 Name| Rot. | Exp. | Lang | Doc.
 ------------------ | --- | --- | --- | ---
-[Stasm](http://www.milbo.users.sonic.net/stasm/)|[link](http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf)|00|yes
-CLM-framework|[link](http://arxiv.org/pdf/1404.3606v2.pdf)|00|yes
-Dlib|[link](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)|00|yes
+[Stasm](http://www.milbo.users.sonic.net/stasm/)|no|no|C|yes
+[CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework)|?|?|?|?
+[Dlib](http://dlib.net/)|?|?|?|?
 
 
 TODO:
 ~~~
-Check stasm, dlib,CLM-framework on some dataset.
-Choose metric.
+Choose metric and protocol of testing.
 ~~~
 
 To look at:
