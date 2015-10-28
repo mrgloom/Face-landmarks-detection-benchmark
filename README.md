@@ -3,6 +3,12 @@ Face landmarks(fiducial points) detection benchmark
 
 Detected face landmarks can be used for face alignment.
 
+TODO:
+~~~
+Check stasm, dlib,CLM-framework on some dataset.
+Choose metric.
+~~~
+
 To look at:
 ~~~
 https://github.com/delphifirst/FaceX
@@ -21,6 +27,8 @@ http://www.milbo.users.sonic.net/stasm/
 check if it detects points or only align face
 https://github.com/jwyang/face-alignment
 https://github.com/soundsilence/FaceAlignment
+constrained local models
+https://github.com/TadasBaltrusaitis/CLM-framework
 
 One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
