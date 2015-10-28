@@ -3,6 +3,12 @@ Face landmarks(fiducial points) detection benchmark
 
 Detected face landmarks can be used for face alignment.
 
+Name| Rot. | Exp. | Lang
+------------------ | --- | --- | ---
+Stasm|[link](http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf)|00|yes
+PCANet: A Simple Deep Learning Baseline for Image Classification?|[link](http://arxiv.org/pdf/1404.3606v2.pdf)|00|yes
+Dlib|[link](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)|00|yes
+
 TODO:
 ~~~
 Check stasm, dlib,CLM-framework on some dataset.
