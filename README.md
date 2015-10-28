@@ -60,9 +60,9 @@ https://github.com/sdcoca/facex
 
 Facial points datasets:
 
-Name| $ |N images| N points| Auth.
+Name| $ |N images| N points| Auth. |Lighting | Age | Ethnicity
 ------------------ | --- | --- | --- | --- | 
-[MUCT](http://www.milbo.org/muct/)|no|3755|76|no
+[MUCT](http://www.milbo.org/muct/)|no|3755|76|no|yes|yes|yes
 [LFPW]()|?|?
 [HELEN](http://www.ifp.illinois.edu/~vuongle2/helen/)|?|192
 [AFW]()|?|?
