@@ -46,6 +46,9 @@ https://github.com/TadasBaltrusaitis/CLM-framework
 Deep learning:
 https://github.com/olddocks/caffe-facialkp
 
+Kaggle:
+https://www.kaggle.com/c/facial-keypoints-detection/data
+
 Javascript:
 https://github.com/auduno/clmtrackr
 
