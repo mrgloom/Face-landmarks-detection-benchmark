@@ -1,7 +1,7 @@
 # Face-landmarks-detection-benchmark
 Face landmarks(fiducial points) detection evaluation.
 
-Attention! It's comparision of specific implementations, not algorithms by itself, so if you know how to improve results let me now.
+Attention! It's comparision of specific implementations, not algorithms by itself, so if you know how to improve results let me know.
 
 
 Name| Rot. | Exp. | Lang | Doc.
