@@ -66,7 +66,7 @@ Name| N images| N points |Lighting | Age | Ethnicity| $ | Auth.
 ------------------ | --- | --- | --- | --- | --- | --- | --- 
 [MUCT](http://www.milbo.org/muct/)|3755|76|yes|yes|yes|no|no
 [LFPW](http://neerajkumar.org/databases/lfpw/)|1432|29|
-[HELEN](http://www.ifp.illinois.edu/~vuongle2/helen/)|?|192
+[HELEN](http://www.ifp.illinois.edu/~vuongle2/helen/)|2330|192
 [AFW]()|?|?
 [AFLW](https://lrs.icg.tugraz.at/research/aflw/)|?|?
 [IBUG]()|?|68
