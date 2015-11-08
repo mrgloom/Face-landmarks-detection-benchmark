@@ -39,9 +39,8 @@ https://github.com/soundsilence/FaceAlignment
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
 
-One Millisecond Face Alignment with an Ensemble of Regression Trees by Vahid Kazemi and Josephine Sullivan
+"One Millisecond Face Alignment with an Ensemble of Regression Trees"
 http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
-
 http://www.csc.kth.se/~vahidk/face_ert.html
 
 http://www.ics.uci.edu/~xzhu/face/
