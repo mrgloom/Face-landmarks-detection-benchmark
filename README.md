@@ -60,6 +60,12 @@ Too simple algorithm, not worth considering it:
 https://github.com/sdcoca/facex
 ~~~
 
+Other(blog posts, SO, etc.):
+~~~
+http://www.researchgate.net/post/Which_facial_landmark_detection_tracking_software_is_publically_available_for_research
+~~~
+
+
 Facial points datasets:
 
 Name| N images| N points |Lighting | Age | Ethnicity| $ | Auth.
