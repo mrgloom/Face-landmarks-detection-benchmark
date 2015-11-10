@@ -11,9 +11,10 @@ Name| Rot. | Exp. | Lang | Doc.
 [Dlib](http://dlib.net/)|?|?|?|?
 
 
-TODO:
+Metric: 
 ~~~
-Choose metric and protocol of testing.
+"The average point-to-point Euclidean error normalized by the inter-ocular distance (measured as the Euclidean distance between the outer corners of the eyes)"
+http://ibug.doc.ic.ac.uk/media/uploads/competitions/compute_error.m
 ~~~
 
 To look at:
