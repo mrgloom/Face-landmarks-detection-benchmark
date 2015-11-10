@@ -31,12 +31,19 @@ http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://ibug.doc.ic.ac.uk/resources/fiducial-facial-point-detector-20052007/
 http://ibug.doc.ic.ac.uk/resources/facial-point-detector-2010/
 http://www.humansensing.cs.cmu.edu/intraface/
+https://github.com/kylemcdonald/FaceTracker
+http://www.cl.cam.ac.uk/research/rainbow/projects/clmz/
+Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment
+http://vipl.ict.ac.cn/resources/codes
+
 ASM/AAM
 http://www.milbo.users.sonic.net/stasm/
 https://github.com/cxcxcxcx/asmlib-opencv
 check if it detects points or only align face
 https://github.com/jwyang/face-alignment
 https://github.com/soundsilence/FaceAlignment
+
+
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
 
