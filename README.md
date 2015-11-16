@@ -60,6 +60,11 @@ https://github.com/TadasBaltrusaitis/CLM-framework
 
 Deep learning:
 https://github.com/olddocks/caffe-facialkp
+http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-with-caffe/
+http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
+
+FANN:
+https://github.com/olddocks/facialkeypoints
 
 Kaggle:
 https://www.kaggle.com/c/facial-keypoints-detection/data
