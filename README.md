@@ -63,6 +63,8 @@ https://github.com/olddocks/caffe-facialkp
 http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-with-caffe/
 https://github.com/dnouri/kfkd-tutorial
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
+PyLearn2
+https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
 
 FANN:
 https://github.com/olddocks/facialkeypoints
