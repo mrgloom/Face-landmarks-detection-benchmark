@@ -65,6 +65,8 @@ https://github.com/dnouri/kfkd-tutorial
 http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
 PyLearn2
 https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
+Theano - autoencoder
+https://github.com/cowpig/deep_keypoints
 
 FANN:
 https://github.com/olddocks/facialkeypoints
