@@ -67,6 +67,9 @@ PyLearn2
 https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
 Theano - autoencoder
 https://github.com/cowpig/deep_keypoints
+Theano
+https://github.com/CanoeFZH/kaggle/tree/master/facial-keypoints-detection
+
 
 FANN:
 https://github.com/olddocks/facialkeypoints
