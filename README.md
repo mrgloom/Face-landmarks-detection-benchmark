@@ -101,6 +101,11 @@ http://www.milbo.org/muct/other-databases.html
 [ATVS](http://atvs.ii.uam.es/scfacedb_landmarks.html)|?|?|yes
 ~~~
 
+Papers:
+~~~
+"A comparative study of face landmarking techniques"
+http://www.busim.ee.boun.edu.tr/~sankur/SankurFolder/Jour_JIVP_Landmarking.pdf
+~~~
 
 Other cool benchmarks:
 ~~~
