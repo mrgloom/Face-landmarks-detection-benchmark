@@ -16,7 +16,7 @@ Metric:
 "The average point-to-point Euclidean error normalized by the inter-ocular distance (measured as the Euclidean distance between the outer corners of the eyes)"
 http://ibug.doc.ic.ac.uk/media/uploads/competitions/compute_error.m
 
-RMSE
+"RMSE is very common and is a suitable general-purpose error metric. Compared to the Mean Absolute Error, RMSE punishes large errors"
 https://www.kaggle.com/c/facial-keypoints-detection/details/evaluation
 ~~~
 
