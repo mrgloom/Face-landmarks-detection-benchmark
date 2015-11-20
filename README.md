@@ -19,6 +19,9 @@ http://ibug.doc.ic.ac.uk/media/uploads/competitions/compute_error.m
 
 To look at:
 ~~~
+Kaggle Facial Keypoints Detection
+https://github.com/mrgloom/Kaggle-Facial-Keypoints-Detection-Solutions
+
 https://github.com/delphifirst/FaceX
 https://github.com/ci2cv/face-analysis-sdk
 https://github.com/uricamic/flandmark
@@ -59,23 +62,10 @@ http://www.ics.uci.edu/~xzhu/face/
 https://github.com/TadasBaltrusaitis/CLM-framework
 
 Deep learning:
-https://github.com/olddocks/caffe-facialkp
-http://corpocrat.com/2015/02/24/facial-keypoints-extraction-using-deep-learning-with-caffe/
-https://github.com/dnouri/kfkd-tutorial
-http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/
-PyLearn2
-https://github.com/nicholas-leonard/dp/blob/master/doc/facialkeypointstutorial.md
-Theano - autoencoder
-https://github.com/cowpig/deep_keypoints
-Theano
-https://github.com/CanoeFZH/kaggle/tree/master/facial-keypoints-detection
-
+?
 
 FANN:
 https://github.com/olddocks/facialkeypoints
-
-Kaggle:
-https://www.kaggle.com/c/facial-keypoints-detection/data
 
 Javascript:
 https://github.com/auduno/clmtrackr
@@ -106,4 +96,12 @@ http://www.milbo.org/muct/other-databases.html
 [PUT]()|?|?
 [XM2VTS](http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/)|?|?
 [ATVS](http://atvs.ii.uam.es/scfacedb_landmarks.html)|?|?|yes
+~~~
+
+
+Other cool benchmarks:
+~~~
+https://github.com/soumith/convnet-benchmarks
+https://github.com/erikbern/ann-benchmarks
+https://github.com/andrewssobral/bgslibrary
 ~~~
