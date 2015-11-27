@@ -25,6 +25,9 @@ To look at:
 Kaggle Facial Keypoints Detection
 https://github.com/mrgloom/Kaggle-Facial-Keypoints-Detection-Solutions
 
+To try first list:
+https://github.com/soundsilence/FaceAlignment
+
 https://github.com/delphifirst/FaceX
 https://github.com/ci2cv/face-analysis-sdk
 https://github.com/uricamic/flandmark
@@ -51,8 +54,6 @@ http://www.milbo.users.sonic.net/stasm/
 https://github.com/cxcxcxcx/asmlib-opencv
 check if it detects points or only align face
 https://github.com/jwyang/face-alignment
-https://github.com/soundsilence/FaceAlignment
-
 
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
