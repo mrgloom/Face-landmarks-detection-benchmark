@@ -65,6 +65,12 @@ http://www.csc.kth.se/~vahidk/face_ert.html
 http://www.ics.uci.edu/~xzhu/face/
 https://github.com/TadasBaltrusaitis/CLM-framework
 
+
+https://github.com/yulequan/face-alignment-in-3000fps
+https://github.com/jwyang/face-alignment
+
+https://github.com/patrikhuber/superviseddescent
+
 Deep learning:
 ?
 
