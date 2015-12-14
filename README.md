@@ -52,6 +52,7 @@ http://ibug.doc.ic.ac.uk/resources/drmf-matlab-code-cvpr-2013/
 ASM/AAM
 http://www.milbo.users.sonic.net/stasm/
 https://github.com/cxcxcxcx/asmlib-opencv
+http://uomasm.sourceforge.net/
 
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
