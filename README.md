@@ -110,6 +110,8 @@ Papers:
 ~~~
 "A comparative study of face landmarking techniques"
 http://www.busim.ee.boun.edu.tr/~sankur/SankurFolder/Jour_JIVP_Landmarking.pdf
+"Supervised Descent Method and its Applications to Face Alignment"
+http://www.ri.cmu.edu/pub_files/2013/5/main.pdf
 ~~~
 
 Other cool benchmarks:
