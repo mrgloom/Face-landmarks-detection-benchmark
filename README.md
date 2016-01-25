@@ -71,6 +71,7 @@ https://github.com/patrikhuber/superviseddescent
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
+https://github.com/luoyetx/deep-landmark
 
 FANN:
 https://github.com/olddocks/facialkeypoints
