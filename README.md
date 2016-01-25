@@ -68,6 +68,8 @@ https://github.com/jwyang/face-alignment
 
 https://github.com/patrikhuber/superviseddescent
 
+http://www.vision.caltech.edu/xpburgos/ICCV13/
+
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
