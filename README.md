@@ -39,7 +39,6 @@ https://github.com/FaceDetect/jointCascade_py
 https://github.com/zhusz/CVPR15-CFSS
 http://ibug.doc.ic.ac.uk/resources/fiducial-facial-point-detector-20052007/
 http://ibug.doc.ic.ac.uk/resources/facial-point-detector-2010/
-http://www.humansensing.cs.cmu.edu/intraface/
 https://github.com/kylemcdonald/FaceTracker
 http://www.cl.cam.ac.uk/research/rainbow/projects/clmz/
 Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment
@@ -80,6 +79,9 @@ https://github.com/olddocks/facialkeypoints
 
 Javascript:
 https://github.com/auduno/clmtrackr
+
+Seems to be commercialized, closed source and not publicly available to download, not worth considering it:
+http://www.humansensing.cs.cmu.edu/intraface/
 
 Too simple algorithm, not worth considering it:
 https://github.com/sdcoca/facex
