@@ -126,6 +126,8 @@ Papers:
 http://www.busim.ee.boun.edu.tr/~sankur/SankurFolder/Jour_JIVP_Landmarking.pdf
 "Supervised Descent Method and its Applications to Face Alignment"
 http://www.ri.cmu.edu/pub_files/2013/5/main.pdf
+"Deep Convolutional Network Cascade for Facial Point Detection"
+http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/CNN_FacePoint.pdf
 ~~~
 
 Other cool benchmarks:
