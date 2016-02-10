@@ -74,6 +74,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 https://github.com/luoyetx/deep-landmark
 https://github.com/zhzhanp/TCDCN-face-alignment
+https://github.com/RiweiChen/DeepFace
 
 FANN:
 https://github.com/olddocks/facialkeypoints
