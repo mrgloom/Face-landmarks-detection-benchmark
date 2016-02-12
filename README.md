@@ -29,7 +29,7 @@ To try first list:
 https://github.com/soundsilence/FaceAlignment
 
 https://github.com/delphifirst/FaceX
-https://github.com/ci2cv/face-analysis-sdk
+https://github.com/ci2cv/face-analysis-sdk  (http://face.ci2cv.net/)
 https://github.com/uricamic/flandmark
 http://cmp.felk.cvut.cz/~uricamic/flandmark/
 http://cmp.felk.cvut.cz/~uricamic/clandmark/
@@ -69,8 +69,6 @@ https://github.com/patrikhuber/superviseddescent
 
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
-http://face.ci2cv.net/
-https://github.com/ci2cv/face-analysis-sdk
 
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
