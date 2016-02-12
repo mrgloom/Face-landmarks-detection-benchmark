@@ -69,6 +69,8 @@ https://github.com/patrikhuber/superviseddescent
 
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
+Not sure 
+https://github.com/elador/FeatureDetection
 
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
