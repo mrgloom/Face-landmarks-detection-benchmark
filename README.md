@@ -69,6 +69,9 @@ https://github.com/patrikhuber/superviseddescent
 
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
+http://face.ci2cv.net/
+https://github.com/ci2cv/face-analysis-sdk
+
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
