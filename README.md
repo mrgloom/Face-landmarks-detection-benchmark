@@ -71,6 +71,7 @@ http://www.vision.caltech.edu/xpburgos/ICCV13/
 
 Not sure 
 https://github.com/elador/FeatureDetection
+https://github.com/t0nyren/kbdetect
 
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
