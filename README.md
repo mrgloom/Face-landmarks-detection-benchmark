@@ -72,6 +72,9 @@ http://www.vision.caltech.edu/xpburgos/ICCV13/
 Joint Cascade Face Detection and Alignment
 https://github.com/luoyetx/JDA
 
+https://github.com/ChrisYang/RCPR
+http://www.vision.caltech.edu/xpburgos/ICCV13/
+
 Not sure 
 https://github.com/elador/FeatureDetection
 https://github.com/t0nyren/kbdetect
