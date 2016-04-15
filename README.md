@@ -144,6 +144,7 @@ http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/CNN_FacePoint.pdf
 Other cool benchmarks:
 ~~~
 https://github.com/soumith/convnet-benchmarks
+https://github.com/DeepMark/deepmark
 https://github.com/erikbern/ann-benchmarks
 https://github.com/andrewssobral/bgslibrary
 ~~~
