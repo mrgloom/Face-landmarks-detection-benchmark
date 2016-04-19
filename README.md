@@ -85,6 +85,8 @@ http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 https://github.com/luoyetx/deep-landmark
 https://github.com/zhzhanp/TCDCN-face-alignment
 https://github.com/RiweiChen/DeepFace
+Recombinator Networks (in theano)
+https://github.com/SinaHonari/RCN
 
 FANN:
 https://github.com/olddocks/facialkeypoints
