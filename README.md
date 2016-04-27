@@ -87,6 +87,7 @@ https://github.com/zhzhanp/TCDCN-face-alignment
 https://github.com/RiweiChen/DeepFace
 Recombinator Networks (in theano)
 https://github.com/SinaHonari/RCN
+https://github.com/ishay2b/VanillaCNN
 
 FANN:
 https://github.com/olddocks/facialkeypoints
