@@ -75,6 +75,9 @@ https://github.com/luoyetx/JDA
 https://github.com/ChrisYang/RCPR
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
+https://github.com/TadasBaltrusaitis/OpenFace
+
+
 Not sure 
 https://github.com/elador/FeatureDetection
 https://github.com/t0nyren/kbdetect
