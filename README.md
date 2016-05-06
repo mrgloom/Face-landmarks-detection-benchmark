@@ -77,6 +77,8 @@ http://www.vision.caltech.edu/xpburgos/ICCV13/
 
 https://github.com/TadasBaltrusaitis/OpenFace
 
+Supervised Descent Method (SDM) for Face Alignment
+https://github.com/tntrung/impSDM
 
 Not sure 
 https://github.com/elador/FeatureDetection
