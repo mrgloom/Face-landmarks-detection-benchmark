@@ -65,8 +65,6 @@ https://github.com/TadasBaltrusaitis/CLM-framework
 https://github.com/yulequan/face-alignment-in-3000fps
 https://github.com/jwyang/face-alignment
 
-https://github.com/patrikhuber/superviseddescent
-
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
 Joint Cascade Face Detection and Alignment
@@ -79,6 +77,7 @@ https://github.com/TadasBaltrusaitis/OpenFace
 
 Supervised Descent Method (SDM) for Face Alignment
 https://github.com/tntrung/impSDM
+https://github.com/patrikhuber/superviseddescent
 
 Not sure 
 https://github.com/elador/FeatureDetection
