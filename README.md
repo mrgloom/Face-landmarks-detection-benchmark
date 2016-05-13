@@ -25,7 +25,6 @@ To look at:
 Kaggle Facial Keypoints Detection
 https://github.com/mrgloom/Kaggle-Facial-Keypoints-Detection-Solutions
 
-To try first list:
 https://github.com/soundsilence/FaceAlignment
 
 https://github.com/delphifirst/FaceX
