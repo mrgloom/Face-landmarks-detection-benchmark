@@ -25,10 +25,11 @@ To look at:
 Kaggle Facial Keypoints Detection
 https://github.com/mrgloom/Kaggle-Facial-Keypoints-Detection-Solutions
 
-https://github.com/soundsilence/FaceAlignment
 
-explicit shape regression
+
+Explicit shape regression
 https://github.com/delphifirst/FaceX
+https://github.com/soundsilence/FaceAlignment
 
 https://github.com/ci2cv/face-analysis-sdk  (http://face.ci2cv.net/)
 https://github.com/uricamic/flandmark
