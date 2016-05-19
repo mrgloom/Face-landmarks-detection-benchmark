@@ -30,6 +30,7 @@ https://github.com/mrgloom/Kaggle-Facial-Keypoints-Detection-Solutions
 Explicit shape regression
 https://github.com/delphifirst/FaceX
 https://github.com/soundsilence/FaceAlignment
+http://phg1024.github.io/CSCE625/
 
 https://github.com/ci2cv/face-analysis-sdk  (http://face.ci2cv.net/)
 https://github.com/uricamic/flandmark
