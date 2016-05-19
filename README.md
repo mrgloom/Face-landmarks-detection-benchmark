@@ -93,9 +93,8 @@ https://github.com/zhzhanp/TCDCN-face-alignment
 https://github.com/RiweiChen/DeepFace
 Recombinator Networks (in theano)
 https://github.com/SinaHonari/RCN
-https://github.com/ishay2b/VanillaCNN
 Caffe
-http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/ (https://github.com/ishay2b/VanillaCNN)
+https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 https://github.com/luoyetx/deep-landmark
 https://github.com/qiexing/caffe-regression
 
