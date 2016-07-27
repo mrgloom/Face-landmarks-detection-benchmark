@@ -97,8 +97,10 @@ Caffe
 https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 https://github.com/luoyetx/deep-landmark
 https://github.com/qiexing/caffe-regression
+https://github.com/pminmin/caffe_landmark
 MatConvNet - maybe regression can be applyed to landmard detection task.
 https://github.com/bazilas/matconvnet-deepReg
+
 
 
 
