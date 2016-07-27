@@ -125,6 +125,7 @@ http://www.learnopencv.com/facial-landmark-detection/
 
 TO LOOK AT:
 ~~~
+https://github.com/luoyetx/face-alignment-presentation
 ~~~
 
 Facial points datasets:
