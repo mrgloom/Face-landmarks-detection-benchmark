@@ -98,6 +98,7 @@ https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/proje
 https://github.com/luoyetx/deep-landmark
 https://github.com/qiexing/caffe-regression
 https://github.com/pminmin/caffe_landmark
+https://github.com/feixuan090803/CNN-Face-Point-Detection
 MatConvNet - maybe regression can be applyed to landmard detection task.
 https://github.com/bazilas/matconvnet-deepReg
 
