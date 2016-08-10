@@ -53,6 +53,7 @@ ASM/AAM
 http://www.milbo.users.sonic.net/stasm/
 https://github.com/cxcxcxcx/asmlib-opencv
 http://uomasm.sourceforge.net/
+https://github.com/greatyao/aamlibrary
 
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
