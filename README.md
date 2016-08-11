@@ -164,6 +164,8 @@ http://www.busim.ee.boun.edu.tr/~sankur/SankurFolder/Jour_JIVP_Landmarking.pdf
 http://www.ri.cmu.edu/pub_files/2013/5/main.pdf
 "Deep Convolutional Network Cascade for Facial Point Detection"
 http://mmlab.ie.cuhk.edu.hk/archive/CNN/data/CNN_FacePoint.pdf
+"One Millisecond Face Alignment with an Ensemble of Regression Trees" by Vahid Kazemi and Josephine Sullivan, CVPR 2014
+http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Millisecond_Face_2014_CVPR_paper.pdf
 ~~~
 
 Other cool benchmarks:
