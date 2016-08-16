@@ -69,6 +69,7 @@ https://github.com/TadasBaltrusaitis/CLM-framework
 
 https://github.com/yulequan/face-alignment-in-3000fps
 https://github.com/jwyang/face-alignment
+https://github.com/jwyang/face-alignment-cpp
 
 http://www.vision.caltech.edu/xpburgos/ICCV13/
 
