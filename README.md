@@ -178,4 +178,5 @@ https://github.com/DeepMark/deepmark
 https://github.com/erikbern/ann-benchmarks
 https://github.com/andrewssobral/bgslibrary
 https://github.com/gnebehay/VOTR
+https://bitbucket.org/rodrigob/doppia
 ~~~
