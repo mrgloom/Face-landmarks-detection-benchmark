@@ -174,6 +174,7 @@ http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kazemi_One_Mill
 Other cool benchmarks:
 ~~~
 https://github.com/soumith/convnet-benchmarks
+https://github.com/ducha-aiki/caffenet-benchmark
 https://github.com/DeepMark/deepmark
 https://github.com/erikbern/ann-benchmarks
 https://github.com/andrewssobral/bgslibrary
