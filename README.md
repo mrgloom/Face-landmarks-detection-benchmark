@@ -55,6 +55,7 @@ https://github.com/cxcxcxcx/asmlib-opencv
 http://uomasm.sourceforge.net/
 https://github.com/greatyao/aamlibrary
 https://github.com/greatyao/asmlibrary
+https://github.com/jiapei100/VOSM
 
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
