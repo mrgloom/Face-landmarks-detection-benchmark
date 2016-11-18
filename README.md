@@ -155,6 +155,7 @@ http://www.milbo.org/muct/other-databases.html
 [ATVS](http://atvs.ii.uam.es/scfacedb_landmarks.html)|?|?|yes
 [CACD](http://bcsiriuschen.github.io/CARC/)
 [MUG](http://mug.ee.auth.gr/fed/)
+[UMDFace](http://umdfaces.io/)
 ~~~
 
 Landmark annotation tools:
