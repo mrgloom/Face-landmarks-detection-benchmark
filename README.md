@@ -91,6 +91,7 @@ https://github.com/patrikhuber/superviseddescent
 Not sure 
 https://github.com/elador/FeatureDetection
 https://github.com/t0nyren/kbdetect
+https://github.com/YuvalNirkin/find_face_landmarks
 
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
