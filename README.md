@@ -98,7 +98,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 https://github.com/zhzhanp/TCDCN-face-alignment
 https://github.com/RiweiChen/DeepFace
-Recombinator Networks (in theano)
+Theano
 https://github.com/SinaHonari/RCN
 Caffe
 https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
