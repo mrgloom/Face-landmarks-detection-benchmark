@@ -112,6 +112,8 @@ MatConvNet - maybe regression can be applyed to landmard detection task.
 https://github.com/bazilas/matconvnet-deepReg
 TensorFlow
 https://github.com/trigeorgis/mdm
+Chainer
+https://github.com/takiyu/hyperface
 
 Tracker
 https://github.com/cheind/dest
