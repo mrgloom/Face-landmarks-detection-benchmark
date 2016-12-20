@@ -110,6 +110,8 @@ https://github.com/qiexing/face-landmark-localization
 https://github.com/kpzhang93/MTCNN_face_detection_alignment
 MatConvNet - maybe regression can be applyed to landmard detection task.
 https://github.com/bazilas/matconvnet-deepReg
+TensorFlow
+https://github.com/trigeorgis/mdm
 
 Tracker
 https://github.com/cheind/dest
