@@ -114,6 +114,8 @@ TensorFlow
 https://github.com/trigeorgis/mdm
 Chainer
 https://github.com/takiyu/hyperface
+Theano
+https://github.com/cowpig/deep_keypoints
 
 Tracker
 https://github.com/cheind/dest
