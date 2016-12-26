@@ -100,6 +100,7 @@ https://github.com/zhzhanp/TCDCN-face-alignment
 https://github.com/RiweiChen/DeepFace
 Theano
 https://github.com/SinaHonari/RCN
+https://github.com/cowpig/deep_keypoints
 Caffe
 https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 https://github.com/luoyetx/deep-landmark
@@ -114,8 +115,6 @@ TensorFlow
 https://github.com/trigeorgis/mdm
 Chainer
 https://github.com/takiyu/hyperface
-Theano
-https://github.com/cowpig/deep_keypoints
 
 Tracker
 https://github.com/cheind/dest
