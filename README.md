@@ -93,6 +93,10 @@ https://github.com/elador/FeatureDetection
 https://github.com/t0nyren/kbdetect
 https://github.com/YuvalNirkin/find_face_landmarks
 
+Mobile:
+https://github.com/gicheonkang/Fast-Face
+
+
 Deep learning:
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
