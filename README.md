@@ -98,6 +98,7 @@ https://github.com/gicheonkang/Fast-Face
 
 
 Deep learning:
+https://github.com/ralpguler/DenseReg
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 https://github.com/zhzhanp/TCDCN-face-alignment
