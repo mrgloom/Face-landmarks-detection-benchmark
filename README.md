@@ -57,6 +57,9 @@ https://github.com/greatyao/aamlibrary
 https://github.com/greatyao/asmlibrary
 https://github.com/jiapei100/VOSM
 
+Shape regression
+https://github.com/GentleZhu/Face_Alignment
+
 constrained local models
 https://github.com/TadasBaltrusaitis/CLM-framework
 
