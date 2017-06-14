@@ -128,6 +128,8 @@ TensorFlow
 https://github.com/trigeorgis/mdm
 Chainer
 https://github.com/takiyu/hyperface
+Torch
+https://github.com/1adrianb/binary-face-alignment
 
 Tracker
 https://github.com/cheind/dest
