@@ -131,6 +131,8 @@ https://github.com/takiyu/hyperface
 Torch
 https://github.com/1adrianb/binary-face-alignment
 https://github.com/1adrianb/2D-and-3D-face-alignment
+MXNet
+https://github.com/pangyupo/mxnet_mtcnn_face_detection
 
 Tracker
 https://github.com/cheind/dest
