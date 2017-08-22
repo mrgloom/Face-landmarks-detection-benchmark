@@ -189,6 +189,11 @@ https://github.com/menpo/menpo http://www.menpo.org
 https://github.com/menpo/landmarker.io
 ~~~
 
+Pose related:
+~~~
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+~~~
+
 Papers:
 ~~~
 "A comparative study of face landmarking techniques"
