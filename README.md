@@ -134,6 +134,7 @@ https://github.com/1adrianb/binary-face-alignment
 https://github.com/1adrianb/2D-and-3D-face-alignment
 MXNet
 https://github.com/pangyupo/mxnet_mtcnn_face_detection
+https://github.com/Seanlinx/mtcnn
 
 Tracker
 https://github.com/cheind/dest
