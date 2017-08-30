@@ -193,6 +193,7 @@ https://github.com/menpo/landmarker.io
 Pose related:
 ~~~
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
+https://github.com/shihenw/convolutional-pose-machines-release
 ~~~
 
 Papers:
