@@ -127,6 +127,7 @@ https://github.com/bazilas/matconvnet-deepReg
 TensorFlow
 https://github.com/trigeorgis/mdm
 https://github.com/flyingzhao/tfTCDCN
+https://github.com/fengju514/Face-Pose-Net
 Chainer
 https://github.com/takiyu/hyperface
 Torch
