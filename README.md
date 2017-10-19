@@ -140,6 +140,8 @@ MXNet
 https://kpzhang93.github.io/MTCNN_face_detection_alignment/
 https://github.com/pangyupo/mxnet_mtcnn_face_detection
 https://github.com/Seanlinx/mtcnn
+PyTorch
+https://github.com/1adrianb/face-alignment
 
 Tracker
 https://github.com/cheind/dest
