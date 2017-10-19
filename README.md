@@ -48,6 +48,8 @@ Coarse-to-Fine Auto-Encoder Networks (CFAN) for Real-Time Face Alignment
 http://vipl.ict.ac.cn/resources/codes
 http://ibug.doc.ic.ac.uk/resources/drmf-matlab-code-cvpr-2013/
 
+Supervised Descent
+https://github.com/RoboPai/sdm
 
 ASM/AAM
 http://www.milbo.users.sonic.net/stasm/
