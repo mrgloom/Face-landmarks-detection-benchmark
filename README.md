@@ -200,10 +200,11 @@ https://github.com/menpo/menpo http://www.menpo.org
 https://github.com/menpo/landmarker.io
 ~~~
 
-Pose related:
+Pose estimation related:
 ~~~
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 https://github.com/shihenw/convolutional-pose-machines-release
+https://github.com/1adrianb/binary-human-pose-estimation
 ~~~
 
 Papers:
