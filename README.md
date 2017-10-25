@@ -205,6 +205,7 @@ Pose estimation related:
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 https://github.com/shihenw/convolutional-pose-machines-release
 https://github.com/1adrianb/binary-human-pose-estimation
+https://github.com/bearpaw/PyraNet
 ~~~
 
 Papers:
