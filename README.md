@@ -127,8 +127,7 @@ https://github.com/kpzhang93/MTCNN_face_detection_alignment
 https://github.com/ZhiwenShao/Dense-Landmark-Detection
 https://github.com/xipeng13/recurrent-face-alignment
 https://github.com/blankWorld/MTCNN-Accelerate-Onet
-MatConvNet - maybe regression can be applyed to landmard detection task.
-https://github.com/bazilas/matconvnet-deepReg
+https://github.com/lsy17096535/face-landmark
 TensorFlow
 https://github.com/trigeorgis/mdm
 https://github.com/flyingzhao/tfTCDCN
@@ -208,6 +207,7 @@ https://github.com/1adrianb/binary-human-pose-estimation
 https://github.com/bearpaw/PyraNet
 https://github.com/eldar/deepcut-cnn
 https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation
+https://github.com/bazilas/matconvnet-deepReg
 ~~~
 
 Papers:
