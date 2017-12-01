@@ -116,7 +116,6 @@ https://github.com/SinaHonari/RCN
 https://github.com/cowpig/deep_keypoints
 https://github.com/MarekKowalski/DeepAlignmentNetwork
 Caffe
-https://github.com/blankWorld/MTCNN-Accelerate-Onet
 https://github.com/kuangliu/pycaffe-mtcnn
 https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 https://github.com/luoyetx/deep-landmark
