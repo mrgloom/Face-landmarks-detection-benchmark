@@ -129,6 +129,7 @@ https://github.com/xipeng13/recurrent-face-alignment
 https://github.com/blankWorld/MTCNN-Accelerate-Onet
 https://github.com/lsy17096535/face-landmark
 https://github.com/BobLiu20/FacialLandmark_Caffe
+https://github.com/CongWeilin/mtcnn-caffe
 TensorFlow
 https://github.com/trigeorgis/mdm
 https://github.com/flyingzhao/tfTCDCN
