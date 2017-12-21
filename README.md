@@ -235,4 +235,5 @@ https://github.com/andrewssobral/bgslibrary
 https://github.com/gnebehay/VOTR
 https://bitbucket.org/rodrigob/doppia
 https://github.com/foolwood/benchmark_results
+https://github.com/davidstutz/superpixel-benchmark
 ~~~
