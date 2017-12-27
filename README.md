@@ -211,6 +211,7 @@ https://github.com/eldar/deepcut-cnn
 https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation
 https://github.com/bazilas/matconvnet-deepReg
 https://github.com/shihenw/convolutional-pose-machines-release
+https://github.com/DavexPro/pytorch-pose-estimation
 ~~~
 
 Papers:
