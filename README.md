@@ -133,6 +133,7 @@ https://github.com/lsy17096535/face-landmark
 https://github.com/BobLiu20/FacialLandmark_Caffe
 https://github.com/CongWeilin/mtcnn-caffe
 https://github.com/wywu/LAB
+https://github.com/kpzhang93/MTCNN_face_detection_alignment
 TensorFlow
 https://github.com/trigeorgis/mdm
 https://github.com/flyingzhao/tfTCDCN
