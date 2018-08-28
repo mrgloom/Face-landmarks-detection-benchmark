@@ -107,7 +107,6 @@ https://github.com/gicheonkang/Fast-Face
 
 
 Deep learning:
-https://github.com/ralpguler/DenseReg
 http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html
 http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm
 https://github.com/zhzhanp/TCDCN-face-alignment
@@ -118,6 +117,7 @@ https://github.com/SinaHonari/RCN
 https://github.com/cowpig/deep_keypoints
 https://github.com/MarekKowalski/DeepAlignmentNetwork
 Caffe
+https://github.com/ralpguler/DenseReg
 https://github.com/kuangliu/pycaffe-mtcnn
 https://github.com/ishay2b/VanillaCNN (http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 https://github.com/luoyetx/deep-landmark
