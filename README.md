@@ -1,9 +1,6 @@
 # Face-landmarks-detection-benchmark
 Face landmarks(fiducial points) detection evaluation.
 
-Attention! It's comparision of specific implementations, not algorithms by itself, so if you know how to improve results let me know.
-
-
 Name| Rot. | Exp. | Lang | Doc.
 ------------------ | --- | --- | --- | ---
 [Stasm](http://www.milbo.users.sonic.net/stasm/)|no|no|C|yes
@@ -149,6 +146,7 @@ https://github.com/pangyupo/mxnet_mtcnn_face_detection
 https://github.com/Seanlinx/mtcnn
 PyTorch
 https://github.com/1adrianb/face-alignment
+https://github.com/D-X-Y/SAN
 
 Tracker
 https://github.com/cheind/dest
