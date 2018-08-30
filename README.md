@@ -147,6 +147,8 @@ https://github.com/Seanlinx/mtcnn
 PyTorch
 https://github.com/1adrianb/face-alignment
 https://github.com/D-X-Y/SAN
+MatConvNet
+https://github.com/FengZhenhua/Wing-Loss
 
 Tracker
 https://github.com/cheind/dest
