@@ -219,6 +219,7 @@ https://github.com/bazilas/matconvnet-deepReg
 https://github.com/shihenw/convolutional-pose-machines-release
 https://github.com/DavexPro/pytorch-pose-estimation
 https://github.com/MVIG-SJTU/AlphaPose
+https://github.com/eldar/pose-tensorflow
 ~~~
 
 Papers:
