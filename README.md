@@ -78,15 +78,12 @@ https://github.com/jwyang/face-alignment-cpp
 
 https://github.com/AndrejMaris/facefit
 
-http://www.vision.caltech.edu/xpburgos/ICCV13/
-
 Joint Cascade Face Detection and Alignment
 https://github.com/luoyetx/JDA
 
 https://github.com/donghoonlee04/cGPRT
 
 https://github.com/ChrisYang/RCPR
-http://www.vision.caltech.edu/xpburgos/ICCV13/
 
 https://github.com/TadasBaltrusaitis/OpenFace
 
@@ -198,6 +195,7 @@ http://www.milbo.org/muct/other-databases.html
 [MUG](http://mug.ee.auth.gr/fed/)
 [UMDFace](http://umdfaces.io/)
 [WFLW](https://wywu.github.io/projects/LAB/WFLW.html)
+[COFW](http://www.vision.caltech.edu/xpburgos/ICCV13/)
 ~~~
 
 Landmark annotation tools:
