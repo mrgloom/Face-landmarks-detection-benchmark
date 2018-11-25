@@ -219,6 +219,7 @@ https://github.com/DavexPro/pytorch-pose-estimation
 https://github.com/MVIG-SJTU/AlphaPose
 https://github.com/eldar/pose-tensorflow
 https://adrianbulat.com/human-pose-estimation
+https://github.com/AlexEMG/DeepLabCut
 ~~~
 
 Papers:
