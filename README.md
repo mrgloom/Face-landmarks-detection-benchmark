@@ -222,6 +222,7 @@ https://github.com/eldar/pose-tensorflow
 https://adrianbulat.com/human-pose-estimation
 https://github.com/AlexEMG/DeepLabCut
 https://github.com/edvardHua/PoseEstimationForMobile
+https://github.com/facebookresearch/DetectAndTrack
 ~~~
 
 Papers:
