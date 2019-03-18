@@ -225,6 +225,7 @@ https://adrianbulat.com/human-pose-estimation
 https://github.com/AlexEMG/DeepLabCut
 https://github.com/edvardHua/PoseEstimationForMobile
 https://github.com/facebookresearch/DetectAndTrack
+https://github.com/vita-epfl/openpifpaf
 ~~~
 
 Papers:
