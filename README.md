@@ -227,6 +227,7 @@ https://github.com/edvardHua/PoseEstimationForMobile
 https://github.com/facebookresearch/DetectAndTrack
 https://github.com/vita-epfl/openpifpaf
 https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/
+https://github.com/tucan9389/PoseEstimation-CoreML
 ~~~
 
 Papers:
