@@ -148,6 +148,7 @@ https://github.com/1adrianb/face-alignment
 https://github.com/D-X-Y/SAN
 https://github.com/oawiles/FAb-Net
 https://github.com/nicehuster/cpm-facial-landmarks
+https://github.com/victimsnino/pose-simple-baselines-demo.pytorch
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
