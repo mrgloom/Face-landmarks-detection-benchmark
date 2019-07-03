@@ -201,6 +201,7 @@ http://www.milbo.org/muct/other-databases.html
 [UMDFace](http://umdfaces.io/)
 [WFLW](https://wywu.github.io/projects/LAB/WFLW.html)
 [COFW](http://www.vision.caltech.edu/xpburgos/ICCV13/)
+[MFED](https://mug.ee.auth.gr/fed/)
 ~~~
 
 Landmark annotation tools:
