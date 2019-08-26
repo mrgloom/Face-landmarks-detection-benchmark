@@ -211,6 +211,7 @@ Landmark annotation tools:
 https://github.com/menpo/menpo http://www.menpo.org
 https://github.com/menpo/landmarker.io
 https://github.com/luigivieira/Facial-Landmarks-Annotation-Tool
+https://github.com/NaturalIntelligence/imglab
 ~~~
 
 Pose estimation related:
