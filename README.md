@@ -133,6 +133,7 @@ https://github.com/flyingzhao/tfTCDCN
 https://github.com/fengju514/Face-Pose-Net
 https://github.com/AITTSMD/MTCNN-Tensorflow
 https://github.com/YadiraF/PRNet
+https://github.com/yinguobing/cnn-facial-landmark
 Chainer
 https://github.com/takiyu/hyperface
 Torch
