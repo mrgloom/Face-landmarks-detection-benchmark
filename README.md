@@ -194,9 +194,8 @@ http://www.milbo.org/muct/other-databases.html
 [LFPW](http://neerajkumar.org/databases/lfpw/)|1432|29|
 [HELEN](http://www.ifp.illinois.edu/~vuongle2/helen/)|2330|192
 [AFW](https://www.ics.uci.edu/~xzhu/face/ http://www.cs.cmu.edu/~deva/papers/face/index.html)|?|?
-[AFLW](https://lrs.icg.tugraz.at/research/aflw/)|?|?
+[AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)|?|?
 [IBUG]()|?|68 (http://ibug.doc.ic.ac.uk/resources/300-W/)
-[PUT]()|?|?
 [XM2VTS](http://www.ee.surrey.ac.uk/CVSSP/xm2vtsdb/)|?|?
 [ATVS](http://atvs.ii.uam.es/atvs/scfacedb_landmarks.html)|?|?|yes
 [CACD](http://bcsiriuschen.github.io/CARC/)
