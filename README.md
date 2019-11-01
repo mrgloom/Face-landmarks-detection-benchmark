@@ -154,6 +154,7 @@ https://github.com/victimsnino/pose-simple-baselines-demo.pytorch
 https://github.com/FunkyKoki/Look_At_Boundary_PyTorch
 https://github.com/D-X-Y/landmark-detection
 https://github.com/HRNet/HRNet-Facial-Landmark-Detection
+https://github.com/protossw512/AdaptiveWingLoss
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
