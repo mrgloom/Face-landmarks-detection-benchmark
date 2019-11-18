@@ -135,6 +135,7 @@ https://github.com/AITTSMD/MTCNN-Tensorflow
 https://github.com/YadiraF/PRNet
 https://github.com/yinguobing/cnn-facial-landmark
 https://github.com/610265158/face_landmark
+https://github.com/papulke/face-of-art
 Chainer
 https://github.com/takiyu/hyperface
 Torch
