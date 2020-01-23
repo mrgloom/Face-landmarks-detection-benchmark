@@ -158,7 +158,6 @@ https://github.com/HRNet/HRNet-Facial-Landmark-Detection
 https://github.com/protossw512/AdaptiveWingLoss
 https://github.com/ideask/A-Practical-Facial-Landmark-Detector
 https://github.com/LeiJiangJNU/DAMDNet
-https://github.com/protossw512/AdaptiveWingLoss
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
