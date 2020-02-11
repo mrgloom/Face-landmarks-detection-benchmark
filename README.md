@@ -136,6 +136,7 @@ https://github.com/YadiraF/PRNet
 https://github.com/yinguobing/cnn-facial-landmark
 https://github.com/610265158/face_landmark
 https://github.com/papulke/face-of-art
+https://github.com/TheSouthFrog/stylealign
 Chainer
 https://github.com/takiyu/hyperface
 Torch
