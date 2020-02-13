@@ -161,6 +161,7 @@ https://github.com/ideask/A-Practical-Facial-Landmark-Detector
 https://github.com/justusschock/shapenet
 https://github.com/LeiJiangJNU/DAMDNet
 https://github.com/LeiJiangJNU/R3FA
+https://github.com/polarisZhao/PFLD-pytorch
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
