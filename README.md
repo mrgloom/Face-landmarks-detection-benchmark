@@ -163,6 +163,7 @@ https://github.com/justusschock/shapenet
 https://github.com/LeiJiangJNU/DAMDNet
 https://github.com/LeiJiangJNU/R3FA
 https://github.com/polarisZhao/PFLD-pytorch
+https://github.com/tomguluson92/PRNet_PyTorch
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
