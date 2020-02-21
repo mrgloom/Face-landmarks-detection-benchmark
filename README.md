@@ -164,6 +164,7 @@ https://github.com/LeiJiangJNU/DAMDNet
 https://github.com/LeiJiangJNU/R3FA
 https://github.com/polarisZhao/PFLD-pytorch
 https://github.com/tomguluson92/PRNet_PyTorch
+https://github.com/ElvishElvis/68-Retinaface-Pytorch-version
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
