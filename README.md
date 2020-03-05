@@ -253,6 +253,7 @@ https://github.com/liuziwei7/fashion-landmarks
 https://github.com/vita-epfl/openpifpaf [PyTorch]
 https://github.com/microsoft/human-pose-estimation.pytorch [PyTorch]
 https://github.com/leoxiaobin/deep-high-resolution-net.pytorch [PyTorch]
+https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch [PyTorch]
 ~~~
 
 Papers:
