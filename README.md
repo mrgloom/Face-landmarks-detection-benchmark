@@ -248,7 +248,6 @@ https://github.com/facebookresearch/DetectAndTrack
 https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/
 https://github.com/tucan9389/PoseEstimation-CoreML
 https://github.com/cbsudux/awesome-human-pose-estimation
-https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch
 https://github.com/liuziwei7/fashion-landmarks
 https://github.com/vita-epfl/openpifpaf [PyTorch]
 https://github.com/microsoft/human-pose-estimation.pytorch [PyTorch]
