@@ -166,6 +166,7 @@ https://github.com/polarisZhao/PFLD-pytorch
 https://github.com/tomguluson92/PRNet_PyTorch
 https://github.com/ElvishElvis/68-Retinaface-Pytorch-version
 https://github.com/cleardusk/3DDFA_V2
+https://github.com/browatbn2/3FabRec
 MatConvNet
 https://github.com/FengZhenhua/Wing-Loss
 
